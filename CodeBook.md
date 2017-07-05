@@ -1,6 +1,10 @@
-Data and Variables  Descriptions
+Introduction
 ------------------------------
-* For the final dataset `date_tidy.txt`, there are 180 observations with 66 selected features as well as "ActivityName" and "SubjectID".
+* Dataset `data_tidy.txt` 
+
+Data and Variables Descriptions
+------------------------------
+* For the final dataset `data_tidy.txt`, there are 180 observations with 66 selected features as well as "ActivityName" and "SubjectID".
   The names of variables are listed below
   
 ```r
