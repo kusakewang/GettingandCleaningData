@@ -1,4 +1,4 @@
-# Getting and CleaningData Project
+# Getting and Cleaning Data Course Project
 According to the project requirements, by using the data from
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
