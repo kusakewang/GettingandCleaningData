@@ -1,9 +1,9 @@
-# GettingandCleaningData Project
+# Getting and CleaningData Project
 According to the project requirement, by using the data from
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-I create a R script called run_analysis.R that does the following.
+I create a R script called run_analysis.R that does the following 5 steps.
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -13,10 +13,10 @@ I create a R script called run_analysis.R that does the following.
 
 # Files
 
-The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
+This repository hosts the R code and documentation files for this project.
 
-CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+'run_analysis.R' contains all the code to perform the analyses required above. 
 
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+'CodeBook.md' describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
-The output of the 5th step is called averages_data.txt, and uploaded in the course project's form.
+'data_tidy.txt'  is the tidy data I got from step 5 that described above
