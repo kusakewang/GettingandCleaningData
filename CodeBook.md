@@ -4,7 +4,7 @@ Dataset `data_tidy.txt` is created by running `run_analysis.R`.
 
 * Firstly, all the files needed are read into R. To merge the training and testing data, first, combine `Xtrain`, `sub_train` which contains subjectID, and `ytrain` by column to form training dataset. Do the same to form the testing dataset. Then combine those two sets by row. 
 * To perform the 2nd step, only those columns with the mean and standard deviation measures should be selected. 
-* According to the activity labels, match the ActivityID in the dataset from step 2 to allow the activity has a decriptive name.
+* According to the activity labels, match the ActivityID in the dataset from step 2. This will allow the activity has a decriptive name.
 * Some features with Body in the names repeated twice are corrected.
 * Finally, by averageing each variable for each activity and each subject. `data_tidy.txt` is created.
 
