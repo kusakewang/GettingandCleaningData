@@ -37,4 +37,4 @@ Variable name    | Description
 subjectID         | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
 ActivityName      | Activity name
 
-Other features has the same description that can be found in `features_info.txt`
+The description of other features can be found in `features_info.txt`
