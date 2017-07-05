@@ -19,4 +19,4 @@ This repository hosts the R code and documentation files for this project.
 
 `CodeBook.md` describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
-`data_tidy.txt` is the tidy data I got from step 5 that described above
+`data_tidy.txt` is the tidy dataset I got from step 5 that described above.
