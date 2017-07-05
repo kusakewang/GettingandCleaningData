@@ -6,7 +6,7 @@ Dataset `data_tidy.txt` is created by running `run_analysis.R`.
 * To perform the 2nd step, only those columns with the mean and standard deviation measures should be selected. 
 * According to the activity labels, match the ActivityID in the dataset from step 2. This will allow the activity has a decriptive name.
 * Some features with Body in the names repeated twice are corrected.
-* Finally, by averageing each variable for each activity and each subject. `data_tidy.txt` is created.
+* Finally, by averageing each variable for each activity and each subject, `data_tidy.txt` is created.
 
 Data and Variables Descriptions
 ------------------------------
