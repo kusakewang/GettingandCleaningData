@@ -14,8 +14,8 @@ names(data_tidy)
 ```
 
 ```
-## [1] "ActivityName"            "SubjectID"               "tBodyAcc-mean()-X"      
-## [4] "tBodyAcc-mean()-Y"       "tBodyAcc-mean()-Z"       "tBodyAcc-std()-X"       
+ [1] "ActivityName"            "SubjectID"               "tBodyAcc-mean()-X"      
+ [4] "tBodyAcc-mean()-Y"       "tBodyAcc-mean()-Z"       "tBodyAcc-std()-X"       
  [7] "tBodyAcc-std()-Y"        "tBodyAcc-std()-Z"        "tGravityAcc-mean()-X"   
 [10] "tGravityAcc-mean()-Y"    "tGravityAcc-mean()-Z"    "tGravityAcc-std()-X"    
 [13] "tGravityAcc-std()-Y"     "tGravityAcc-std()-Z"     "tBodyAccJerk-mean()-X"  
