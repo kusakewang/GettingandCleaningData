@@ -1,6 +1,6 @@
 Introduction
 ------------------------------
-Dataset `data_tidy.txt` is created by running `run_analysis.R'.
+Dataset `data_tidy.txt` is created by running `run_analysis.R`.
 
 * Firstly, all the files needed are read into R. To merge the training and testing data, first, combind `Xtrain`, `sub_train` which contains subjectID, and `ytrain` by comumn to form training dataset. Do the same to form the testing dataset. Then combind those two sets by row. 
 * To perform the 2nd step, only those columns with the mean and standard deviation measures should be selected. 
