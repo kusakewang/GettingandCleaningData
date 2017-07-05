@@ -1,11 +1,13 @@
-Codebook
-========
-
 Variables  Descriptions
 ------------------------------
-* For the final dataset `date_tidy.txt`, there are 180 observations with 66 selected features as well as "ActivityName" and "SubjectID". 
+* For the final dataset `date_tidy.txt`, there are 180 observations with 66 selected features as well as "ActivityName" and "SubjectID".
 
-* The names of variables is listed below
+Variable name    | Description
+-----------------|------------
+subjectID         | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
+ActivityName      | Activity name
+
+* The names of  66 selected features is listed below
 
 
 
