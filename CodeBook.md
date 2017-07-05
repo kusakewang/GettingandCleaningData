@@ -1,16 +1,8 @@
 Variables  Descriptions
 ------------------------------
 * For the final dataset `date_tidy.txt`, there are 180 observations with 66 selected features as well as "ActivityName" and "SubjectID".
-
-Variable name    | Description
------------------|------------
-subjectID         | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
-ActivityName      | Activity name
-
-* The names of  66 selected features is listed below
-
-
-
+  The names of variables is listed below
+  
 ```r
 names(data_tidy)
 ```
@@ -40,3 +32,7 @@ names(data_tidy)
 [64] "fBodyAccJerkMag-std()"   "fBodyGyroMag-mean()"     "fBodyGyroMag-std()"     
 [67] "fBodyGyroJerkMag-mean()" "fBodyGyroJerkMag-std()" 
 ```
+Variable name    | Description
+-----------------|------------
+subjectID         | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
+ActivityName      | Activity name
